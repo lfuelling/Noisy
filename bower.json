@@ -3,5 +3,6 @@
   "version": "0.0.1",
   "main": "./jquery/jquery.noisy.js",
   "dependencies": {
+    "jquery": "^2.1.3"
   }
 }
